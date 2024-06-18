@@ -32,7 +32,7 @@ A collection of Chakra UI-related awesomeness
 
 - [Chakra UI Time Scroller](https://www.npmjs.com/package/chakra-ui-time-scroller): This is a clean time picker/scroller built for javascript and typescript with chakra-ui.
 - [Chakra UI Pro](https://pro.chakra-ui.com/): Beautiful and responsive React components to build your application or marketing pages quicker. Created by the makers of Chakra UI.
-- [Chakra Templates](https://chakra-templates.dev/): A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project.
+- [Chakra Templates](https://chakra-templates.vercel.app/): A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project.
 - [Choc UI](https://choc-ui.com/): A set of accessible and reusable components that are commonly used in web applications.
 - [Cosmos Kit](https://cosmoskit.com/): Set up a modern Cosmos app by running one command, and instantly get a web3 project with Next.js and Chakra UI ready-to-go.
 - [OnlySetups](https://github.com/wobsoriano/onlysetups): OnlyFans, but for pictures of desk setups.
